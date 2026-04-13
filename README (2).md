@@ -90,6 +90,3 @@ Blog_Layout_in_Tailwind_CSS.html    # All-in-one file (HTML + Tailwind + JS)
 
 ---
 
-## Credits
-
-Images sourced from [GeeksforGeeks](https://www.geeksforgeeks.org/).
