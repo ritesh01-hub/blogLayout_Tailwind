@@ -16,7 +16,8 @@ This project features a clean UI with a sidebar, blog cards, and interactive mod
 * ✨ Smooth Animations & Hover Effects
 
 ---
-
+## Reviw
+![img alt](https://github.com/ritesh01-hub/blogLayout_Tailwind/blob/997e4d43d84b893c206413c974aba3360d28764d/Screenshot%202026-04-16%20113007.png)
 ## 🛠️ Tech Stack
 
 * HTML5
